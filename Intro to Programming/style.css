@@ -1,0 +1,59 @@
+.Body {
+	padding: 10px;
+	border: 20px;
+	margin-left: 200px;
+	margin-right: 200px;
+	max-width: 75%
+	
+}
+h1 {
+	
+	color: #0000FF;
+	font-variant: small-caps;
+
+}
+
+body {
+	text-align: center;
+	font-family: Arial
+}
+
+.Lesson {
+	background-color: #2952CC;
+	border-radius: 15px;
+	color: white;
+	font-variant: small-caps;
+	margin: 1px;
+	padding: 10px
+}
+
+h2 {
+	margin: 10px
+}
+
+.Concept {
+	background-color: #A9BAEB;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 4px;
+	color: black;
+}
+
+.Concept-Title {
+	font-size: 22pt;
+	margin: 8px;
+	text-align: center;
+	font-variant: small-caps;
+	color: #2952CC;
+}
+
+.Concept-Desc {
+	font-weight: lighter;
+	font-variant: normal;
+	margin: 6px
+}
+
+.italics {
+	font-style: italic;
+	font-weight: bolder;
+}
